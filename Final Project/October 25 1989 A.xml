@@ -1,0 +1,86 @@
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>FINAL PROJECT TITLE</title> 
+            <author>??</author>
+            <respStmt>
+               <resp>Originally published by</resp>
+               <orgName>University of Nebraska College of Journalism</orgName>
+            </respStmt>
+            <respStmt>   
+               <resp>Revised and edited by</resp>
+               <name>Ana Chincoa</name>
+               <name>Jeff Hill</name>
+               <name>Hanna Varilek</name>         
+            </respStmt>         
+         </titleStmt>
+         
+         <publicationStmt>
+            <distributor>University of Nebraska-Lincoln Archives and Special Collections</distributor>    
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <bibl>
+                  <publisher>The Journalist Vol. 35 No. 2</publisher>
+                  <title>Speaker: abortion ‘a relief’</title>
+                  <author>Bradley C. Rundquist</author>
+                  <date>Oct. 25, 1989</date>
+               </bibl>
+               <bibl>ADD THE REST OF THE BIBLIOGRAPHIC INFO HERE??</bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Produced to fulfill requirements of ENGL478-878</p>
+         </projectDesc>
+         <editorialDecl>
+            <correction>
+               <p>Spelling errors silently corrected</p>
+               <p>Hyphenated words at the end of lines silently removed.</p>
+            </correction>
+         </editorialDecl>        
+      </encodingDesc>
+      <revisionDesc>
+         <list>
+            <item>Document originally created 19 Nov 2022</item>
+            <item>
+               RECORD MAJOR EDITORIAL PROGRESS HERE
+            </item>   
+         </list>
+      </revisionDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <pb facs="Domeier.1.jpg"/>
+         
+         <div1 type="section1"><head>Speaker: abortion ‘a relief’</head>
+            <byline><persName><ref target="PDomeier"></ref>By Bradley C. Rundquist</persName></byline>
+            <p>In most cases, having an abortion causes no unusual mental trauma to a woman, according to an Arizona State University psychologist.</p>
+            <p>Nancy Felipe Russo, also the director of Women’s Studies at ASU, told an audience of about 300 at the University of Nebraska-Lincoln’s Wick Alumni Center Monday that this conclusion came from a study she participated in earlier this year.</p>
+            <p>The study, conducted but he American Psychological Association, identified abortion as a stressful event, but showed that very few women have problems coping mentally after having the operation.</p>
+            <p>Russo said abortion can cause feeling of regret, anger, doubt, depression, guilt or shame.</p>
+            <p>“But,” she said, “the bad feelings are usually only temporary. In the case of unwanted pregnancies, the most common reactions are of happiness and relief.”</p>
+            <p>Only 12 out of every 10,000 women will need psychological care after having an abortion, she said.</p>
+            <p>Women experiencing one of more risk factors have increased chance for depression or other psychological problems, she said.</p>
+            <p>Factors that may cause depression after aborting pregnancy, according to Russo, are: a history of emotional disturbance, terminating a pregnancy that was originally wanted, having been recently separated or divorced, waiting longer than three months to have the operation and having limited or no social support.</p>
+            <p>Women are the most mentally disturbed before the operation, she said.  That’s because they have been misinformed about abortion in most cases, she said.</p>
+            <p>Misinformation can also affect a woman’s mental response after the abortion, Russo said.</p>
+            <p>“If they are undermined by myths, it can be very disturbing to women having abortions,” she said.</p>
+            <p>Factual information about the risks and procedure and support from the male partner are two factors that can increase a woman’s ability to cope with abortions, she said.</p>
+            <p>“Help from a woman’s partner in deciding whether or not to have an abortion and support from him throughout the process definitely produces a more positive response,” she said.  Another study showed that 75 percent of women had an easy time deciding to have an abortion and 17 percent said they had difficulty, Russo said.  The remaining 8 percent had experiences between easy and difficult.</p></div1>
+         <div1 type="analysis1"><head>Literary Analysis</head>
+            <p>BLAH BLAH BLAH</p>
+         </div1>
+         
+         <pb facs="lastname.2.jpg"/>   
+         <div1 type="section2"><head>Speaker: abortion ‘a relief’</head>
+            <byline><persName><ref target="xxx">Bradley C. Rundquist</ref></persName></byline>
+            
+         </div1>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>FINAL PROJECT TITLE</title> 
+                <author>??</author>
+                <respStmt>
+                    <resp>Originally published by</resp>
+                    <orgName>University of Nebraska College of Journalism</orgName>
+                </respStmt>
+                <respStmt>   
+                    <resp>Revised and edited by</resp>
+                    <name>Ana Chincoa</name>
+                    <name>Jeff Hill</name>
+                    <name>Hanna Varilek</name>         
+                </respStmt>         
+            </titleStmt>
+            
+            <publicationStmt>
+                <distributor>University of Nebraska-Lincoln Archives and Special Collections</distributor>    
+            </publicationStmt>
+            <sourceDesc>
+                <bibl><note>File includes annotations linked from The Journalist.</note></bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Produced to fulfill requirements of ENGL478-878</p>
+            </projectDesc>
+                  
+        </encodingDesc>
+        <revisionDesc>
+            <list>
+                <item>Document originally created 27 Oct 2022</item>
+                <item>
+                    RECORD MAJOR EDITORIAL PROGRESS HERE
+                </item>   
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+      <body>
+  <div><head>Biographical Annotations</head></div>
+          <note type="person" xml:id="PDomeier">
+              PAUL'S BIO ANNOTATION HERE
+          </note>
+  
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </body>     
+    </text>
+

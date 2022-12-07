@@ -1,0 +1,83 @@
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>FINAL PROJECT TITLE</title> 
+            <author>??</author>
+            <respStmt>
+               <resp>Originally published by</resp>
+               <orgName>University of Nebraska College of Journalism</orgName>
+            </respStmt>
+            <respStmt>   
+               <resp>Revised and edited by</resp>
+               <name>Ana Chincoa</name>
+               <name>Jeff Hill</name>
+               <name>Hanna Varilek</name>         
+            </respStmt>         
+         </titleStmt>
+         
+         <publicationStmt>
+            <distributor>University of Nebraska-Lincoln Archives and Special Collections</distributor>    
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <bibl>
+                  <publisher>The Journalist Vol. TBD No. TBD</publisher>
+                  <title>DeCamp: proposed abortion bill restricts use of dangerous methods</title>
+                  <author>Lucy Lien</author>
+                  <date>Dec. 4, 1974</date>
+               </bibl>
+               <bibl>ADD THE REST OF THE BIBLIOGRAPHIC INFO HERE??</bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Produced to fulfill requirements of ENGL478-878</p>
+         </projectDesc>
+         <editorialDecl>
+            <correction>
+               <p>Spelling errors silently corrected</p>
+               <p>Hyphenated words at the end of lines silently removed.</p>
+            </correction>
+         </editorialDecl>        
+      </encodingDesc>
+      <revisionDesc>
+         <list>
+            <item>Document originally created 15 Nov 2022</item>
+            <item>
+               RECORD MAJOR EDITORIAL PROGRESS HERE
+            </item>   
+         </list>
+      </revisionDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <pb facs="Domeier.1.jpg"/>
+         
+         <div1 type="section1"><head>Armstrong advocates men's lib</head>
+            <byline><persName><ref target="PDomeier"></ref>By Shelly Kalkowski</persName></byline>
+            <p>Equal rights for women are fine, Charles Armstrong thinks men need to be liberated too.</p>
+            <p>“If men can be chauvinists, then so can women,” he said. Armstrong is a former graduate student at the University of Nebraska Lincoln and has done work towards a master's thesis on men's liberation.</p>
+            <p>A key element of female chauvinism, according to Armstrong, is the expectation that the man must be the bread winner.</p>
+            <p>Other things men need to liberated from are the job stereotypes men are classified under and the idea that a "man" should not openly express his feelings, he said.</p>
+            <p>"Women are jumping from the frying pan into the fire when they ask for equal rights,” Armstrong said. “They are going from sexual oppression to economic oppression.”</p>
+            <p>The solution, Armstrong said he believes, lies in a guaranteed income that would free men, and women, from economic coercion.</p>
+            <p>"Men also need to be liberated from the stereotypes of jock, super-stud and unfeeling machine,” he said.</p>
+            <p>Armstrong said an Army manual that said an officer should not be seen carrying a baby was a good example of  this stereotyping.</p>
+            <p>"Many people see a man as some sort of machine--an unfeeling robot-- that is not supposed to show any human feelings, such as crying,” Armstrong said. “I see men's liberation as trying to free yourself from the stereotype being imposed upon you.”</p>
+            <p>"Maybe what we need is equal rights for chauvinists."</p></div1>
+         <div1 type="analysis1"><head>Literary Analysis</head>
+            <p>BLAH BLAH BLAH</p>
+         </div1>
+         
+         <pb facs="lastname.2.jpg"/>   
+         <div1 type="section2"><head>Armstrong advocates men's lib</head>
+            <byline><persName><ref target="xxx">Shelly Kalkowski</ref></persName></byline>
+            
+         </div1>
+      </body>
+   </text>
+</TEI>

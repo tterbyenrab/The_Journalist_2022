@@ -1,0 +1,95 @@
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Journalist</title> 
+            <author></author>
+            <respStmt>
+               <resp>Originally published by</resp>
+               <orgName>University of Nebraska College of Journalism</orgName>
+            </respStmt>
+            <respStmt>   
+            <resp>Revised and edited by</resp>
+                  <name>Ana Chincoa</name>
+                  <name>Jeff Hill</name>
+                  <name>Hanna Varilek</name>         
+            </respStmt>         
+         </titleStmt>
+         
+         <publicationStmt>
+            <distributor>University of Nebraska-Lincoln Archives and Special Collections</distributor>    
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <bibl>
+               <publisher>The Journalist Vol. 35 No. 9</publisher>
+                  <title>Adoption numbers unchanged</title>
+               <author>Paul Domier</author>
+                  <date>Nov. 17, 1989</date>
+            </bibl>
+               <bibl></bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Produced to fulfill requirements of ENGL478-878</p>
+         </projectDesc>
+         <editorialDecl>
+            <correction>
+               <p>Spelling errors silently corrected</p>
+               <p>Hyphenated words at the end of lines silently removed.</p>
+            </correction>
+         </editorialDecl>        
+      </encodingDesc>
+      <revisionDesc>
+         <list>
+            <item>Document originally created 27 Oct 2022</item>
+         <item>
+          
+         </item>   
+         </list>
+      </revisionDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <pb facs="Domeier.1.jpg"/>
+         
+         <div1 type="section1"><head>Adoption Numbers Unchanged</head>
+         <byline><persName><ref target="PDomeier">By Paul Domeier</ref></persName></byline>
+         <p>The number of adoptions in Nebraska has not changed since abortion issues came to the
+            forefront of public debate again last year, the executive director of the Nebraska
+            Children’s Home said. Harris Van Oort said he has not seen a change in the number of
+            children put up for adoption or in the number of children placed by his agency since the
+            late 1970’s.</p>
+         <p>The Nebraska Children’s Home, a state-wide adoption agency with head- quarters in Omaha,
+            placed about 225 children in homes each year in the late 1960’s, he said.</p>
+         <p>The number of adoptions dropped in the early 1970’s, Van Oort said, after the U.S.
+            Supreme Court case Roe vs. Wade, which legalized abortion, and because of changing
+            social standards. At about the same time as Roe vs. Wade, society accepted the idea of
+            single mothers, he said.</p>
+         <p>The affect of single mothers on adop- tons is not easy to trace. Van Oort said. “There
+            isn’t a definite time when it became okay for a young lady to be single and a parent,”
+            he said.</p>
+         <p>The number of children placed by the agency slowly dropped and bottomed out at a little
+            more than 100 a year by the late 1970’s, Van Oort said.</p>
+         <p> Marcia Blum, the Omaha Child Saving Institute’s family service program supervisor,
+            said she hasn’t noticed any effects of the resurgence in the abortion issue.</p>
+         <p>She said she thinks that if laws are passed in Nebraska limiting abortion, the number of
+            children put up for adop- lion would increase.</p>
+         <p>Van Oort said his agency could handle more children being put up for adoption because
+            more Nebraska families want to adopt than there are available children.</p></div1>
+         <div1 type="analysis1"><head>Literary Analysis</head>
+        
+         </div1>
+         
+        <pb facs="lastname.2.jpg"/>   
+        <div1 type="section2"><head>HEADLINE</head>
+           <byline><persName><ref target="xxx">by</ref></persName></byline>
+              
+      </div1>
+        </body>
+   </text>
+</TEI>

@@ -1,0 +1,94 @@
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Journalist</title> 
+            <author></author>
+            <respStmt>
+               <resp>Originally published by</resp>
+               <orgName>University of Nebraska College of Journalism</orgName>
+            </respStmt>
+            <respStmt>   
+               <resp>Revised and edited by</resp>
+               <name>Ana Chincoa</name>
+               <name>Jeff Hill</name>
+               <name>Hanna Varilek</name>         
+            </respStmt>         
+         </titleStmt>
+         
+         <publicationStmt>
+            <distributor>University of Nebraska-Lincoln Archives and Special Collections</distributor>    
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <bibl>
+                  <publisher>The Journalist Vol. 35 No. 2</publisher>
+                  <title>Bush abortion move ‘no surprise’</title>
+                  <author>Eric Pfanner</author>
+                  <date>Oct. 25, 1989</date>
+               </bibl>
+               <bibl>ADD THE REST OF THE BIBLIOGRAPHIC INFO HERE??</bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Produced to fulfill requirements of ENGL478-878</p>
+         </projectDesc>
+         <editorialDecl>
+            <correction>
+               <p>Spelling errors silently corrected</p>
+               <p>Hyphenated words at the end of lines silently removed.</p>
+            </correction>
+         </editorialDecl>        
+      </encodingDesc>
+      <revisionDesc>
+         <list>
+            <item>Document originally created 19 Nov 2022</item>
+            <item>
+             
+            </item>   
+         </list>
+      </revisionDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <pb facs="Domeier.1.jpg"/>
+         
+         <div1 type="section1"><head>Bush abortion move ‘no surprise’</head>
+            <byline><persName><ref target="PDomeier"></ref>By Eric Pfanner</persName></byline>
+            <p>President Bush’s announcement that he would veto a bill providing publicly funded abortions for low-income victims of rape and incest came as no surprise to some Nebraska pro-life and pro-choice activists.</p>
+            <p>“In the scheme of things, it was expected,” said Susan Hale, a lobbyist for Omaha-Council Bluffs Planned Parenthood. “It doesn’t significantly affect the overall situation.”</p>
+            <p>The House and Senate passed the bill last week and sent it to the president.  Richard Duncan, president of the Rutherford Institute of Nebraska, a pro-life group, said bush’s decision is right because it involves welfare money in the form of Medicaid.</p>
+            <p>Because pro-life and pro-choice supporters disagree on what types of abortion should be legal, tax money should not be provided, even in the case of rape and incest victims, he said.</p>
+            <p>Jo Eberly, a coordinator of the Religious Coalition for Abortion Rights, said the pro-choice movement may gain strength as a result of Bush’s decision.</p>
+            <p>“Sometimes those seeming reverses give quiet people a voice,” she said.  She said the president’s decision was not a setback to the pro-choice movement because abortions for rape and incest victims haven’t been funded for eight years.</p>
+            <p>Julie Lostroh, public relations chairman of the Nebraska Coalition for Life, said the group supports Bush’s decision and will continue lobbying in favor of pro-life.</p>
+            <p>“The battle just started July 3,” she said, with the Supreme Court’s ruling in Webster vs. Reproductive Health Services, which opened the door for states to limit abortion rights.</p>
+            <p>Duncan said the  decision gave the pro-life movement new life, and could cause several battles over abortion bills in Congress.</p>
+            <p>“Webster is the real cause why abortion is a front-burner issue,” he said.</p>
+            <p>Eberly said that although only a small percentage of Americans are active on either side of the abortion issue, many have recently become interested in human rights in general.</p>
+            <p>“A lot of people are saying we don’t want to be another South Africa,” she said.</p>
+            <p>Abortion should not be looked at as a moral issue, but rather as a social one, she said. Across-the-board decisions on abortion, she said, don’t give the complete picture.</p>
+            <p>“Each pregnancy is its own story,” she said.</p>
+            <p>Eberly said the poor and homeless will most be affected by Bush’s veto.  “It will most hurt those without an address; those who can’t be active,” she said.</p>
+            <p>Before public funds for abortion were cut off eight years ago, she said, 200,000 poor women per year received Medicaid money for abortions.</p>
+            <p>Lostroh said the rape and incest bill would have “opened the door too far” in providing public funds.</p>
+            <p>To be feasible, she said, such a bill would have to require rape or incest victims to notify authorities within 72 hours.</p>
+            <p>The bill does not include a time limit, Lostroh said. As a result, she said, the law would have been abused because many pregnant women could have had paid abortions as long as they “cried rape.”</p>
+            <p>Eberly said a time limit for reporting rapes is an unreasonable requirement, because many women are afraid to report rapes.</p>
+            <p>“In many cases, they can hardly admit to themselves that this act has happened,” she said.</p></div1>
+         <div1 type="analysis1"><head></head>
+            <p></p>
+         </div1>
+         
+         <pb facs="lastname.2.jpg"/>   
+         <div1 type="section2"><head></head>
+            <byline><persName><ref target="xxx"></ref></persName></byline>
+            
+         </div1>
+      </body>
+   </text>
+</TEI>

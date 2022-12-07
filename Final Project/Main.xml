@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Journalist</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>The Journalist was a collaborative class project that mixed students from the following classes at the University of Nebraska-Lincoln’s journalism college: Advanced Reporting, Copy Editing, Photography.  It began in the early 1970s and ran until around 1996.  The paper was published in the final weeks of the fall and spring semesters. It was team-taught by tenured professors in the journalism department in hopes of preparing students for work in a newsroom upon graduation.</p>
+         <p>For this particular project, we were interested in tracking the reporting styles and viewpoints surrounding the topic of abortion and women’s rights.</p>
+         <p>We would like to thank Laura Weakly, Charlyne Berens, and John Bender for their willingness to provide us with vital historical context for this project.</p>
+      </body>
+  </text>
+</TEI>
